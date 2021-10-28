@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandole
 - 👀 I’m interested in sports, gaming and coding.
-- 🌱 I’m currently learning web dev and MERN.
+- 🌱 I’m currently learning web dev and react-django stack.
 - 💞️ I’m looking to collaborate on open source python projects.
 - 📫 How to reach me sandole97@gmail.com
 
