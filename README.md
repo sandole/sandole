@@ -35,7 +35,7 @@
 ## Get in Touch 🤝🏻 
 
 <p>
-<a href="https://johnseong.vercel.app/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://johnseong.vercel.app/"><img src="https://img.shields.io/badge/PersonalBlog-2962FF?style=for-the-badge"></a>
 <a href="mailto:sandole97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
