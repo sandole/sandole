@@ -24,7 +24,7 @@
 **Web Frameworks:**
 
 <p>
-<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
