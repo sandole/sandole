@@ -35,7 +35,9 @@
 <p>
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0000ff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0000ff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 ## Get in Touch 🤝🏻 
