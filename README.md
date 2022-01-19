@@ -3,9 +3,8 @@
 ## Facts about Me 💻
 
 - I’m interested in sports, gaming and coding. 👀
-- I’m currently learning web dev, NextJs and MERN stack. 🌱
-- Road to full-stack developer 🚀
-- I’m looking to collaborate on open source python projects. 🤝🏻 
+- I’m currently learning web dev and cloud computing. 🌱
+- Road to software engineer 🚀
 
 ## Tech Stack 🛠
 
