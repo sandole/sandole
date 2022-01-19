@@ -31,6 +31,13 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
+**Other techs:**
+<p>
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0000ff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
 ## Get in Touch 🤝🏻 
 
 <p>
