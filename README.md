@@ -3,8 +3,7 @@
 ## Facts about Me 💻
 
 - I’m interested in sports, gaming and coding. 👀
-- I’m currently learning web dev, and cloud security. 🌱
-- Road to software engineer 🚀
+- I’m currently learning web dev, cloud computing and cloud security. 🌱
 
 ## Tech Stack 🛠
 
