@@ -32,7 +32,8 @@
 <p>
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 <img src="https://img.shields.io/badge/terraform-800080.svg?style=for-the-badge&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/kubernetes-000099.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-000099.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
+<img src="https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white">
 </p>
 
 **Others:**
