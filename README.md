@@ -28,6 +28,13 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
+**Cloud Stack:**
+<p>
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/terraform-800080.svg?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-000099.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
 **Other techs:**
 <p>
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
