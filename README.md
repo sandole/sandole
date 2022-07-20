@@ -3,7 +3,7 @@
 ## Facts about Me 💻
 
 - I’m interested in sports, gaming and coding. 👀
-- I’m currently learning web dev and cloud computing. 🌱
+- I’m currently learning k8s, IaC and cloud computing. 🌱
 
 ## Tech Stack 🛠
 
