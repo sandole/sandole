@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/terraform-800080.svg?style=for-the-badge&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-000099.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
 <img src="https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white">
-<img src="https://img.shields.io/badge/openshift-000000.svg?style=for-the-badge&logo=openshift&logoColor=white">
+<img src="https://img.shields.io/badge/openshift-000000.svg?style=for-the-badge&logo=openshift&logoColor=white](https://img.shields.io/badge/openshift-FF0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white">
 </p>
 
 **Others:**
