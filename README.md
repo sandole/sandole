@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/kubernetes-000099.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
 <img src="https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/openshift-FF0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white">
+<img src="https://img.shields.io/badge/argoCD-FF8000.svg?style=for-the-badge&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-87CEEB.svg?style=for-the-badge&logo=jenkins&logoColor=black">
 </p>
 
 **Others:**
