@@ -2,8 +2,8 @@
 **Software Engineer** · Building AI-powered investment tooling in Private Markets.
 
 ## What I'm Working On
-- AI/ML integration for private equity workflows
-- Cloud-native architectures on Azure (Kubernetes, microservices, event-driven systems)
+- AI integration for private equity workflows
+- Cloud-native architectures (Azure, Kubernetes, microservices, event-driven systems)
 - MS in AI @ University of Ottawa
 
 <table>
