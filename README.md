@@ -25,28 +25,45 @@
 ---
 ## Open Source Contributions
 
+<!-- CONTRIBUTIONS:START -->
 <table>
   <tr>
     <td>
-      <a href="https://github.com/python/cpython">
-        <img src="./contribution-cards/python-cpython.svg" />
-      </a>
+      <a href="https://github.com/python/cpython"><strong>python/cpython</strong></a><br>
+      <sub>The Python programming language</sub><br><br>
+      <a href="https://github.com/python/cpython/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-2-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <sub>
+        <img src="https://img.shields.io/github/stars/python/cpython?style=flat-square&label=stars" />
+        <img src="https://img.shields.io/github/forks/python/cpython?style=flat-square&label=forks" />
+        <img src="https://img.shields.io/github/languages/top/python/cpython?style=flat-square" />
+      </sub>
     </td>
     <td>
-      <a href="https://github.com/OpenBB-finance/OpenBB">
-        <img src="./contribution-cards/OpenBB-finance-OpenBB.svg" />
-      </a>
+      <a href="https://github.com/OpenBB-finance/OpenBB"><strong>OpenBB-finance/OpenBB</strong></a><br>
+      <sub>Financial data platform for analysts, quants and AI agents.</sub><br><br>
+      <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-4-238636?style=flat-square&logo=git-merge&logoColor=white" /></a> <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-3-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <sub>
+        <img src="https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&label=stars" />
+        <img src="https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&label=forks" />
+        <img src="https://img.shields.io/github/languages/top/OpenBB-finance/OpenBB?style=flat-square" />
+      </sub>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/run-llama/llama_index">
-        <img src="./contribution-cards/run-llama-llama_index.svg" />
-      </a>
+      <a href="https://github.com/run-llama/llama_index"><strong>run-llama/llama_index</strong></a><br>
+      <sub>LlamaIndex is the leading framework for building LLM-powered agents over your data.</sub><br><br>
+      <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-2-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <sub>
+        <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=stars" />
+        <img src="https://img.shields.io/github/forks/run-llama/llama_index?style=flat-square&label=forks" />
+        <img src="https://img.shields.io/github/languages/top/run-llama/llama_index?style=flat-square" />
+      </sub>
     </td>
     <td></td>
   </tr>
 </table>
+<!-- CONTRIBUTIONS:END -->
 
 ---
 ## Tech Stack
