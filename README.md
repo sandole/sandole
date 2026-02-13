@@ -25,11 +25,28 @@
 ---
 ## Open Source Contributions
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**CPython**](https://github.com/python/cpython) | The Python programming language | ![Stars](https://img.shields.io/github/stars/python/cpython?style=flat-square) |
-| [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents | ![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square) |
-| [**LlamaIndex**](https://github.com/run-llama/llama_index) | Leading framework for building LLM-powered agents over your data | ![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square) |
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/python/cpython">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=python&repo=cpython&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/OpenBB-finance/OpenBB">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBB-finance&repo=OpenBB&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/run-llama/llama_index">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index&theme=dark" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 ## Tech Stack
