@@ -1,5 +1,5 @@
 # Hey, I'm John 👋
-**Software Engineer** · Building AI-powered investment in Private Markets.
+**Software Engineer** · Building AI-powered investment tooling in Private Markets.
 
 ## What I'm Working On
 - AI/ML integration for private equity workflows
