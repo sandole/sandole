@@ -23,6 +23,15 @@
 </table>
 
 ---
+## Open Source Contributions
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**CPython**](https://github.com/python/cpython) | The Python programming language | ![Stars](https://img.shields.io/github/stars/python/cpython?style=flat-square) |
+| [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents | ![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square) |
+| [**LlamaIndex**](https://github.com/run-llama/llama_index) | Leading framework for building LLM-powered agents over your data | ![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square) |
+
+---
 ## Tech Stack
 **Languages**
 
