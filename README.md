@@ -1,4 +1,4 @@
-# Hey, I'm John 👋
+# Hello 👋
 **Software Engineer** · Building AI-powered investment tooling in Private Markets.
 
 ## What I'm Working On
