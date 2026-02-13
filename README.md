@@ -5,6 +5,23 @@
 - AI/ML integration for private equity workflows
 - Cloud-native architectures on Azure (Kubernetes, microservices, event-driven systems)
 - MS in AI @ University of Ottawa
+
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./profile-summary-card-output/dark/3-stats.svg" width="100%">
+    </td>
+    <td>
+      <img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
 ---
 ## Tech Stack
 **Languages**
