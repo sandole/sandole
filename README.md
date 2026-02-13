@@ -29,19 +29,19 @@
   <tr>
     <td>
       <a href="https://github.com/python/cpython">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=python&repo=cpython&theme=dark" />
+        <img src="./contribution-cards/python-cpython.svg" />
       </a>
     </td>
     <td>
       <a href="https://github.com/OpenBB-finance/OpenBB">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBB-finance&repo=OpenBB&theme=dark" />
+        <img src="./contribution-cards/OpenBB-finance-OpenBB.svg" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/run-llama/llama_index">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=run-llama&repo=llama_index&theme=dark" />
+        <img src="./contribution-cards/run-llama-llama_index.svg" />
       </a>
     </td>
     <td></td>
