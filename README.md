@@ -53,7 +53,7 @@
     <td>
       <a href="https://github.com/run-llama/llama_index"><strong>run-llama/llama_index</strong></a><br>
       <sub>LlamaIndex is the leading framework for building LLM-powered agents over your data.</sub><br><br>
-      <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-2-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-1-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
       <sub>
         <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=stars" />
         <img src="https://img.shields.io/github/forks/run-llama/llama_index?style=flat-square&label=forks" />
