@@ -41,7 +41,7 @@
     <td>
       <a href="https://github.com/OpenBB-finance/OpenBB"><strong>OpenBB-finance/OpenBB</strong></a><br>
       <sub>Financial data platform for analysts, quants and AI agents.</sub><br><br>
-      <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-4-238636?style=flat-square&logo=git-merge&logoColor=white" /></a> <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-3-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-4-238636?style=flat-square&logo=git-merge&logoColor=white" /></a> <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-4-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
       <sub>
         <img src="https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&label=stars" />
         <img src="https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&label=forks" />
@@ -53,7 +53,7 @@
     <td>
       <a href="https://github.com/run-llama/llama_index"><strong>run-llama/llama_index</strong></a><br>
       <sub>LlamaIndex is the leading framework for building LLM-powered agents over your data.</sub><br><br>
-      <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-1-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <br>
       <sub>
         <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=stars" />
         <img src="https://img.shields.io/github/forks/run-llama/llama_index?style=flat-square&label=forks" />
