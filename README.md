@@ -41,7 +41,7 @@
     <td>
       <a href="https://github.com/OpenBB-finance/OpenBB"><strong>OpenBB-finance/OpenBB</strong></a><br>
       <sub>Financial data platform for analysts, quants and AI agents.</sub><br><br>
-      <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-4-238636?style=flat-square&logo=git-merge&logoColor=white" /></a> <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-4-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-5-238636?style=flat-square&logo=git-merge&logoColor=white" /></a> <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-3-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
       <sub>
         <img src="https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&label=stars" />
         <img src="https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&label=forks" />
