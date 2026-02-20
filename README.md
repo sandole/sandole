@@ -52,7 +52,7 @@
   <tr>
     <td>
       <a href="https://github.com/run-llama/llama_index"><strong>run-llama/llama_index</strong></a><br>
-      <sub>LlamaIndex is the leading framework for building LLM-powered agents over your data.</sub><br><br>
+      <sub>LlamaIndex is the leading document agent and OCR platform</sub><br><br>
       <br>
       <sub>
         <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=stars" />
