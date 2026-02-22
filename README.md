@@ -1,5 +1,5 @@
 # Hello 👋
-**Software Engineer** · Building AI-powered investment tooling in Private Markets.
+**Software Engineer** · Building AI-powered investment tooling in Private Markets. Tech lead @ BCI
 
 ## What I'm Working On
 - AI integration for private equity workflows
