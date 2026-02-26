@@ -2,7 +2,7 @@
 **Software Engineer** · Building AI-powered investment tooling in Private Markets. Tech lead @ BCI
 
 ## What I'm Working On
-- AI integration for private equity workflows
+- AI integration for private markets workflows
 - Cloud-native architectures (Azure, Kubernetes, microservices, event-driven systems)
 - MS in AI @ University of Ottawa
 
