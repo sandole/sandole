@@ -3,7 +3,7 @@ Building AI-powered investment tooling in Private Markets. Tech lead @ BCI
 
 ## What I'm Working On
 - AI integration for private markets workflows
-- Cloud-native architectures (Azure, Kubernetes, microservices, event-driven systems)
+- Cloud-native architectures (Azure, Kubernetes, event-driven systems, developer tooling)
 - MS in AI @ University of Ottawa
 
 <table>
