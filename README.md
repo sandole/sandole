@@ -31,7 +31,7 @@ Building AI-powered investment tooling in Private Markets. Tech lead @ BCI
     <td>
       <a href="https://github.com/python/cpython"><strong>python/cpython</strong></a><br>
       <sub>The Python programming language</sub><br><br>
-      <a href="https://github.com/python/cpython/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-1-238636?style=flat-square&logo=git-merge&logoColor=white" /></a> <a href="https://github.com/python/cpython/pulls?q=is%3Apr+author%3Asandole+is%3Aopen"><img src="https://img.shields.io/badge/PRs_open-1-1f6feb?style=flat-square&logo=git-pull-request&logoColor=white" /></a><br>
+      <a href="https://github.com/python/cpython/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-2-238636?style=flat-square&logo=git-merge&logoColor=white" /></a><br>
       <sub>
         <img src="https://img.shields.io/github/stars/python/cpython?style=flat-square&label=stars" />
         <img src="https://img.shields.io/github/forks/python/cpython?style=flat-square&label=forks" />
