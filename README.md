@@ -40,7 +40,7 @@ Building AI-powered investment tooling in Private Markets. Tech lead @ BCI
     </td>
     <td>
       <a href="https://github.com/OpenBB-finance/OpenBB"><strong>OpenBB-finance/OpenBB</strong></a><br>
-      <sub>Financial data platform for analysts, quants and AI agents.</sub><br><br>
+      <sub>Open Data Platform for analysts, quants and AI agents.</sub><br><br>
       <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-8-238636?style=flat-square&logo=git-merge&logoColor=white" /></a><br>
       <sub>
         <img src="https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&label=stars" />
