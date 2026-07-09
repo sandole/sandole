@@ -1,5 +1,5 @@
 # Hello 👋
-Building AI-powered investment tooling in Private Markets. Tech lead @ BCI
+Building AI-powered investment tooling. Lead engineer @ CPP Investments
 
 ## What I'm Working On
 - AI integration for private markets workflows
