@@ -2,8 +2,8 @@
 Building AI-powered investment tooling. Lead engineer @ CPP Investments
 
 ## What I'm Working On
-- AI integration for private markets workflows
-- Cloud-native architectures (Azure, Kubernetes, event-driven systems, developer tooling)
+- AI integration for private markets / quant workflows
+- Cloud-native architectures (Azure, AWS, Kubernetes, event-driven systems, developer tooling)
 - MS in AI @ University of Ottawa
 
 <table>
