@@ -60,7 +60,16 @@ Building AI-powered investment tooling. Lead engineer @ CPP Investments
         <img src="https://img.shields.io/github/languages/top/run-llama/llama_index?style=flat-square" />
       </sub>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/Azure/kars"><strong>Azure/kars</strong></a><br>
+      <sub>Agent Reference Stack for Kubernetes (kars) - an open source stack from Microsoft for running AI agents safely on Kubernetes. Multi-runtime, Foundry-aware, hardened per-agent sandboxes, governed egress, end-to-end encrypted inter-agent mesh.</sub><br><br>
+      <a href="https://github.com/Azure/kars/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-1-238636?style=flat-square&logo=git-merge&logoColor=white" /></a><br>
+      <sub>
+        <img src="https://img.shields.io/github/stars/Azure/kars?style=flat-square&label=stars" />
+        <img src="https://img.shields.io/github/forks/Azure/kars?style=flat-square&label=forks" />
+        <img src="https://img.shields.io/github/languages/top/Azure/kars?style=flat-square" />
+      </sub>
+    </td>
   </tr>
 </table>
 <!-- CONTRIBUTIONS:END -->

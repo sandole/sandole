@@ -10,6 +10,7 @@ REPOS = [
     ("python", "cpython"),
     ("OpenBB-finance", "OpenBB"),
     ("run-llama", "llama_index"),
+    ("Azure", "kars"),
 ]
 README_PATH = "README.md"
 START_MARKER = "<!-- CONTRIBUTIONS:START -->"
