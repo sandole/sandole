@@ -52,7 +52,7 @@ Building AI-powered investment tooling. Lead engineer @ CPP Investments
   <tr>
     <td>
       <a href="https://github.com/run-llama/llama_index"><strong>run-llama/llama_index</strong></a><br>
-      <sub>LlamaIndex is the leading document agent and OCR platform</sub><br><br>
+      <sub>LlamaIndex is the document processing platform for AI</sub><br><br>
       <br>
       <sub>
         <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=stars" />
