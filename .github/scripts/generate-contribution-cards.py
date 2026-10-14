@@ -8,7 +8,7 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 USERNAME = "sandole"
 REPOS = [
     ("python", "cpython"),
-    ("OpenBB-finance", "OpenBB"),
+    ("openbq-org", "OpenBB"),
     ("run-llama", "llama_index"),
     ("Azure", "kars"),
 ]
@@ -83,6 +83,9 @@ def main():
     cards = []
     for owner, repo in REPOS:
         data = fetch_repo(owner, repo)
+        # Follow renames: the repos endpoint redirects, but the search API
+        # returns 422 for a stale owner/name.
+        owner, repo = data["full_name"].split("/")
         prs = fetch_pr_counts(owner, repo)
         cards.append(build_card(owner, repo, data, prs))
         print(f"{owner}/{repo}: {prs['merged']} merged, {prs['open']} open")
