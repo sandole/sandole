@@ -39,13 +39,13 @@ Building AI-powered investment tooling. Lead engineer @ CPP Investments
       </sub>
     </td>
     <td>
-      <a href="https://github.com/OpenBB-finance/OpenBB"><strong>OpenBB-finance/OpenBB</strong></a><br>
+      <a href="https://github.com/openbq-org/OpenBB"><strong>openbq-org/OpenBB</strong></a><br>
       <sub>Open Data Platform for analysts, quants and AI agents.</sub><br><br>
-      <a href="https://github.com/OpenBB-finance/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-8-238636?style=flat-square&logo=git-merge&logoColor=white" /></a><br>
+      <a href="https://github.com/openbq-org/OpenBB/pulls?q=is%3Apr+author%3Asandole+is%3Amerged"><img src="https://img.shields.io/badge/PRs_merged-8-238636?style=flat-square&logo=git-merge&logoColor=white" /></a><br>
       <sub>
-        <img src="https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&label=stars" />
-        <img src="https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&label=forks" />
-        <img src="https://img.shields.io/github/languages/top/OpenBB-finance/OpenBB?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/openbq-org/OpenBB?style=flat-square&label=stars" />
+        <img src="https://img.shields.io/github/forks/openbq-org/OpenBB?style=flat-square&label=forks" />
+        <img src="https://img.shields.io/github/languages/top/openbq-org/OpenBB?style=flat-square" />
       </sub>
     </td>
   </tr>
