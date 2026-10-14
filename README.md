@@ -75,24 +75,6 @@ Building AI-powered investment tooling. Lead engineer @ CPP Investments
 <!-- CONTRIBUTIONS:END -->
 
 ---
-## Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=JohnSeong.claude-code-review"><strong>Claude Code Review</strong></a><br>
-      <sub>Azure DevOps extension that reviews pull requests with Claude. Detects bugs, security issues, and logic errors with confidence-based scoring.</sub><br><br>
-      <sub>
-        <img src="https://img.shields.io/visual-studio-marketplace/v/JohnSeong.claude-code-review?style=flat-square&label=version" />
-        <img src="https://img.shields.io/visual-studio-marketplace/i/JohnSeong.claude-code-review?style=flat-square&label=installs" />
-        <img src="https://img.shields.io/visual-studio-marketplace/r/JohnSeong.claude-code-review?style=flat-square&label=rating" />
-      </sub>
-    </td>
-    <td></td>
-  </tr>
-</table>
-
----
 ## Tech Stack
 **Languages**
 
